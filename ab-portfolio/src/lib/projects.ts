@@ -36,7 +36,7 @@ export const projects: Project[] = [
       "A beginner-friendly web application with a responsive interface.",
     image: portfolioImage,
     technologies: ["React + Vite", "Tailwind CSS" , "TypeScript"],
-    githubUrl: "https://github.com/username/web-app",
-    liveUrl: "https://sample-web-app.vercel.app",
+    githubUrl: "https://github.com/Patwickk/ab-portfolio.git",
+    liveUrl: "https://ab-portfolio-uwt9.vercel.app/",
   },
 ];
